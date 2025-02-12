@@ -1,3 +1,3 @@
 # Projects
-My personal projects in college
+My personal projects in college during 3rd sem
 
